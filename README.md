@@ -1,4 +1,4 @@
-# Machine Learning e Redes Neurais LSTM para Previsão do Dólar
+# Machine_Learning_e_Redes_Neurais_LSTM_para_Previsão_do_Dólar
 
 #### Aluno: André Bittencourt Pereira
 #### Orientadora: [Manoela Kohler](https://github.com/manoelakohler)
